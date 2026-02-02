@@ -81,7 +81,7 @@ where `stepsize = RL * (RL * Elite - Prey)` and `RL` is Levy random movement.
 ### Installation
 
 ```{r eval=FALSE}
-# From GitLab
+# From GitHub
 remotes::install_github("urbs-dev/marinepredator")
 ```
 
