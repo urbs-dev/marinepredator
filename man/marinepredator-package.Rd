@@ -78,12 +78,17 @@ Useful links:
 }
 }
 \author{
-\strong{Maintainer}: Marc Grossouvre \email{marc@grossouvre.fr} (R implementation) [translator]
+\strong{Maintainer}: Marc Grossouvre \email{marcgrossouvre@urbs.fr} (R implementation) [translator]
 
 Authors:
 \itemize{
   \item Afshin Faramarzi (Original MATLAB code)
   \item Seyedali Mirjalili (Original MATLAB code)
+}
+
+Other contributors:
+\itemize{
+  \item  URBS company \email{contact@rubs.fr} [copyright holder, funder]
 }
 
 }

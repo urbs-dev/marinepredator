@@ -1,3 +1,7 @@
+## 2nd submission with modified DESCRIPTION file
+
+Author field now includes URBS as copyright holder and funder.
+
 ## R CMD check results
 
 0 errors | 0 warnings | 1 note
