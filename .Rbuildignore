@@ -6,3 +6,4 @@
 ^_pkgdown\.yml$
 ^coverage\.txt$
 ^LICENSE\.md$
+^cran-comments\.md$
