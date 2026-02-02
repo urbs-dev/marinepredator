@@ -3,8 +3,9 @@ Type: Package
 Title: Marine Predators Algorithm
 Version: 0.0.1
 Authors@R:
-    c(person("Marc", "Grossouvre", , "marc@grossouvre.fr", role = c("trl", "cre"),
+    c(person("Marc", "Grossouvre", , "marcgrossouvre@urbs.fr", role = c("trl", "cre"),
            comment = "R implementation"),
+    person(, "URBS company", , "contact@rubs.fr", role = c("cph", "fnd")),
     person("Afshin",  "Faramarzi", , , role = "aut", comment = "Original MATLAB code"),
     person("Seyedali", "Mirjalili", , , role = "aut", comment = "Original MATLAB code"))
 Description: Implementation of the Marine Predators Algorithm (MPA) in R. MPA is a
